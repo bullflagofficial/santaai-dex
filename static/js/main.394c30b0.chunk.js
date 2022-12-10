@@ -2333,7 +2333,7 @@
                                 null,
                                 a.a.createElement(Sr, { style: { marginRight: "10px", color: "#ffffff"}, to: "/swap" }, "Swap"),
                                 a.a.createElement(Sr, { style: { marginRight: "10px", color: "#ffffff" }, to: "/pool" }, "Liquidity"),
-                                a.a.createElement(Sr, { style: { marginRight: "10px", color: "#ffffff" }, as: "a", href: "https://t.me/SantaAI_Bsc", target: "_blank", rel: "noopener noreferrer" }, "Telegram"),
+                                a.a.createElement(Sr, { style: { marginRight: "10px", color: "#ffffff" }, as: "a", href: "https://t.me/SantaAI_Bsc", target: "_blank", rel: "noopener noreferrer" }, "Telegram")
                             )
                         );
                     },
